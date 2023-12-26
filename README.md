@@ -1,6 +1,6 @@
 
 ### Hi there 👋, DAGIM HAILEGEBREL
-#### web developer 
+#### A passionate  web developer From Ethiopia
 ![web developer ](https://github.com/dagim1313/dagim1313/blob/main/gitbanner.png)
 
 
