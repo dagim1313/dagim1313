@@ -1,7 +1,6 @@
 
 # Hi there 👋,I am DAGIM HAILEGEBREL
 ### A passionate  web developer From Ethiopia
-   ![web developer ](https://github.com/dagim1313/dagim1313/blob/main/gitbanner.png)
 
 
 Skills: HTML/ CSS / JS /PHP /GIT /github
