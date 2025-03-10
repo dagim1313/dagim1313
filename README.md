@@ -3,7 +3,7 @@
 ### A passionate  Health Data Scientist
 
 
-Skills: HTML/ CSS / JS /PHP /GIT /github
+Skills: R,Pyhton, Power BI
 
 - 🔭 I’m currently working on this page. 
 
