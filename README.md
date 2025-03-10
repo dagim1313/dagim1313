@@ -1,6 +1,6 @@
 
 # Hi there 👋,I am DAGIM HAILEGEBREL
-### A passionate  web developer From Ethiopia
+### A passionate  Health Data Scientist
 
 
 Skills: HTML/ CSS / JS /PHP /GIT /github
