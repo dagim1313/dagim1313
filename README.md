@@ -1,6 +1,7 @@
 
 # Hi there 👋,I am DAGIM HAILEGEBREL
 ### A passionate  Health Data Scientist
+## Stron interest in AI and Machine Learning 
 
 
 Skills: R,Pyhton, Power BI
