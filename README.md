@@ -1,10 +1,10 @@
 
 # Hi there 👋,I am DAGIM HAILEGEBREL
 ### A passionate  Health Data Scientist
-## Stron interest in AI and Machine Learning 
+## Strong interest in AI and Machine Learning 
 
 
-Skills: R,Pyhton, Power BI
+Skills: R,Pyhton, Power BI ,HTML , CSS , Javascript , SQL , PHP 
 
 - 🔭 I’m currently working on this page. 
 
