@@ -1,6 +1,6 @@
 # Hi 👋 I'm Dagim Hailegebrial  
 
-### Health Data Scientist | AI,Machine Learning ,& Mathematical Modeling Enthusiast 
+### Health Data Scientist | AI,Machine Learning ,& Mathematical Modelling Enthusiast 
 
 I am a passionate Health Data Scientist with strong interests in Artificial Intelligence, Machine Learning, and data-driven research.  
 I enjoy building predictive models, analyzing complex datasets, and applying AI solutions to real-world health and scientific problems.
