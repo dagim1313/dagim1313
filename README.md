@@ -40,8 +40,8 @@ I enjoy building predictive models, analyzing complex datasets, and applying AI 
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: *(Add your LinkedIn link here)*  
-- Email: *(Add your professional email here)*  
+- LinkedIn: *()*  
+- Email: *()*  
 
 ---
 
